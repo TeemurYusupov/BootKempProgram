@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿// Сортировка выбором:
+
+Console.Clear();
+
 // заполнение
 Console.WriteLine("Введите размерность массива");
 int n = Convert.ToInt32(Console.ReadLine());
